@@ -25,3 +25,6 @@ Customization
 Everything is fully adjustable in the indicator settings. You can tweak the lookback periods, change the amount of price level rows for more or less heatmap granularity, and adjust the exact volume multipliers required to trigger the bubbles. You can also completely toggle the heatmap or the bubbles on and off if you prefer a cleaner chart.
 
 Just copy the source code, paste it into your Pine Editor, and add it to your chart!
+
+<img width="891" height="756" alt="Screenshot 2026-04-24 at 23 44 01" src="https://github.com/user-attachments/assets/98c1f828-56a8-4f63-9474-155b6067eaf2" />
+
